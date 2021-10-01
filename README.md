@@ -2,10 +2,6 @@
 
 Service runs through the test link at <https://api.aykargo.com.tr>.  Account details for the test
 
-Client : **TEST**
-
-Password: **TesT.43e54**
-
 
 
 Service descriptions consisting of 3 methods in total are as follows.
