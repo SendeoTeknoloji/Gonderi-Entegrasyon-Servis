@@ -1,6 +1,6 @@
-**Service Document for Aykargo Shipment Transactions**
+**Service Document for Sendeo Shipment Transactions**
 
-Service runs through the test link at <https://api.aykargo.com.tr>.  Account details for the test
+Service runs through the test link at <https://api.sendeo.com.tr>.  Account details for the test
 
 
 
